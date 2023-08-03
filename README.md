@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me **antony.bondarev@gmail.com**
+- 📫 How to reach me **anbjbss@gmail.com**
 
 - ⚡ Fun fact **I worked as a postman**
 
